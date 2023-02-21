@@ -63,6 +63,14 @@
 				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/VFX/HitFX/MI_VFX_BackSplatterFire_001_Trial.uasset",
 				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/VFX/Materials/M_Particle_Master_Simple_001.uasset",
 				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/VFX/Materials/MI_VFX_DarkDot_001.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/Materials/Bard/M_Bard_Master_002.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/Blueprints/EnemyClassSet.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/Characters/Enemies/BP_EnemyCharacterParent.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/UI/Widgets02/WB_AIHealthBar.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/UI/HealthBarVFX/NS_Healthbar_Baker.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/UI/HealthBarVFX/TrialFlipbook.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/UI/HealthBarVFX/NS_Healthbar_Baker_BakedAtlas_HealthbarDissolveBake_001.uasset",
+				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/UI/HealthBarVFX/NS_HealthbarTest.uasset",
 				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/Abilities2/AS2_AbilityMelee.uasset",
 				"O:/GitHub/ClassicAdventure/TheBard/TheBard/Content/Abilities2/AS2_ASwingOfFire.uasset"
 			]
